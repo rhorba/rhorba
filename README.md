@@ -1,9 +1,9 @@
 # Hi, I'm Mohamed Rhorba 👋
 
-**Senior Java Tech Lead — 13 years building mission-critical systems for the Moroccan Gendarmerie Royale (2012–2025).**
+**Senior Java Tech Lead — 14 years building mission-critical systems for the Moroccan Gendarmerie Royale (2012–present).**
 Now available for **freelance & remote contracts** 🌍
 
-- 🏛️ 13 years professional Java/JEE — HR, audit/inspection, and document-management platforms serving thousands of users (Java, Spring, JSF/PrimeFaces, Oracle, Activiti BPMN, Alfresco ECM, JBoss/WildFly, Jenkins & GitLab CI/CD)
+- 🏛️ 14 years professional Java/JEE — HR, audit/inspection, and document-management platforms serving thousands of users (Java, Spring, JSF/PrimeFaces, Oracle, Activiti BPMN, Alfresco ECM, JBoss/WildFly, Jenkins & GitLab CI/CD)
 - 🚀 Modern stack in continuous practice across 90+ public repos: **Spring Boot 3, microservices (Spring Cloud), Kafka, CQRS/Event Sourcing, gRPC, GraphQL, WebFlux, Keycloak/OAuth2, Docker, Kubernetes, Terraform, Angular, React/Next.js**
 - 📱 Android (Kotlin) freelance work — secure document apps
 - 🎓 Engineering degree in Information Systems (Bac+5), SUPMTI Rabat
