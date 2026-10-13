@@ -4,7 +4,7 @@
 Now available for **freelance & remote contracts** 🌍
 
 - 🏛️ 14 years professional Java/JEE — HR, audit/inspection, and document-management platforms serving thousands of users (Java, Spring, JSF/PrimeFaces, Oracle, Activiti BPMN, Alfresco ECM, JBoss/WildFly, Jenkins & GitLab CI/CD)
-- 🚀 Modern stack in continuous practice across 90+ public repos: **Spring Boot 3, microservices (Spring Cloud), Kafka, CQRS/Event Sourcing, gRPC, GraphQL, WebFlux, Keycloak/OAuth2, Docker, Kubernetes, Terraform, Angular, React/Next.js**
+- 🚀 Modern stack practiced on full applications I design and ship myself: **Java 21, Spring Boot 3, microservices (Spring Cloud Gateway), RabbitMQ, Testcontainers, Docker, Kubernetes, GitHub Actions, Angular, React/Next.js**
 - 📱 Android (Kotlin) freelance work — secure document apps
 - 🎓 Engineering degree in Information Systems (Bac+5), SUPMTI Rabat
 - 🗣️ Arabic (native) · French (fluent) · English (professional)
@@ -13,16 +13,18 @@ Now available for **freelance & remote contracts** 🌍
 
 | Project | What it is | Stack |
 |---|---|---|
-| [LawFirm](https://github.com/rhorba/LawFirm) | Enterprise law-firm management — hexagonal architecture, RBAC (20+ permissions), JWT + refresh tokens, audit logging | Java 21, Spring Boot 3.4, Angular 18, PostgreSQL, Docker |
-| [Wassalha](https://github.com/rhorba/Wassalha) | B2B COD delivery aggregation platform — carrier comparison, booking, real-time tracking, Stripe billing, 164 tests | TypeScript, Next.js, PostgreSQL, Playwright |
-| [tabib-ma](https://github.com/rhorba/tabib-ma) | Healthcare platform for Morocco | Java, Spring Boot |
-| [all-what-you-need-micro-services](https://github.com/rhorba/all-what-you-need-micro-services) | Complete Spring Cloud microservices reference — Gateway, Eureka, Config Server, Auth | Java 17, Spring Cloud |
-| [ebank-cqrs-es-main](https://github.com/rhorba/ebank-cqrs-es-main) | Event-driven banking with CQRS / Event Sourcing | Java, Axon, Kafka |
-| [track.ma](https://github.com/rhorba/track.ma) | Delivery tracking for the Moroccan market | TypeScript, Next.js |
+| [LawFirm](https://github.com/rhorba/LawFirm) | Law-firm management — hexagonal architecture, RBAC (20+ permissions), JWT + refresh tokens, audit logging | Java 21, Spring Boot 3.4, Angular 18, PostgreSQL, Flyway, Testcontainers |
+| [tabib-ma](https://github.com/rhorba/tabib-ma) | Doctor booking — double-booking guard (row lock + PostgreSQL exclusion constraint) validated by concurrency tests | Java, Spring Boot 3, Spring Security/JWT, React, PostgreSQL |
+| [atlas-events](https://github.com/rhorba/atlas-events) | Event aggregator — Spring Batch scraper publishing to RabbitMQ, REST API, iCal feeds | Java 21, Spring Boot 3, Angular, Kubernetes (Kustomize), Prometheus/Grafana |
+| [mizan-ma](https://github.com/rhorba/mizan-ma) | AI contract analysis — 4 microservices behind Spring Cloud Gateway, internal-only AI service | Java 21, Spring Boot 3, Claude API, Angular, Kubernetes |
+| [Wassalha](https://github.com/rhorba/Wassalha) | B2B COD delivery aggregation — carrier comparison, booking, real-time tracking, Stripe billing, 164 tests | TypeScript, Next.js, PostgreSQL, Playwright |
+| [Moqawil](https://github.com/rhorba/Moqawil) · [bina](https://github.com/rhorba/bina) | Auto-entrepreneur compliance toolkit · public-tender radar with the procurement decree as a typed state machine | TypeScript, Next.js, PostgreSQL |
 
 ## 🛠️ Core stack
 
-`Java 8→21` `Spring Boot 3` `Spring Cloud` `Spring Security` `Kafka` `gRPC` `GraphQL` `WebFlux` `Keycloak · OAuth2 · OIDC` `Oracle` `PostgreSQL` `MongoDB` `Redis` `Docker` `Kubernetes` `Terraform` `GitLab CI/CD` `Jenkins` `GitHub Actions` `Prometheus · Grafana` `Angular` `React · Next.js` `Kotlin / Android`
+`Java 8→21` `Spring Boot 3` `Spring Cloud Gateway` `Spring Security` `Spring Batch` `Jakarta EE` `JSF/PrimeFaces` `Oracle · PL/SQL` `PostgreSQL` `Redis` `RabbitMQ` `ActiveMQ` `Flyway` `JUnit 5 · Testcontainers` `Docker` `Kubernetes` `GitLab CI/CD` `Jenkins` `GitHub Actions` `Prometheus · Grafana` `Angular` `React/Next.js`
+
+_Training labs: Kafka, Keycloak, gRPC, GraphQL, WebFlux, CQRS/Event Sourcing, Terraform._
 
 ## 📫 Contact
 
